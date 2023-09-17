@@ -1,0 +1,181 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ 
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+form {
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.insert-form {
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+textarea {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.submit-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
+
+textarea {
+    height: 100px;
+}
+
+#borrower_name {
+    width: 200px; /* Adjust the width as needed */
+}
+
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #ffffff; /* White background */
+        color: #333333; /* Dark text color */
+        margin: 0;
+        padding: 0;
+    }
+
+ 
+
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    th, td {
+        border: 1px solid #009900; /* Green border for table cells */
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #009900; /* Green header background color */
+        color: #ffffff; /* White text color for table headers */
+    }
+
+    a {
+        color: #009900; /* Green link color */
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline; /* Underline on hover */
+    }
+
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    
+    /* Pagination links */
+    .pagination a {
+        display: inline-block;
+        padding: 5px 10px;
+        margin: 0 5px;
+        text-decoration: none;
+        background-color: #f2f2f2;
+        color: #333;
+        border-radius: 5px;
+    }
+    
+    /* Style the current page link */
+    .pagination .current-page {
+        background-color: #007BFF;
+        color: #fff;
+        border-radius: 5px;
+    }
+    
+    /* Hover effect for links */
+    .pagination a:hover {
+        background-color: #007BFF;
+        color: #fff;
+    }
+
+    
+
+
+
+
+
+
+
